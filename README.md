@@ -1,4 +1,4 @@
-Sure, here's an example of what your README file could look like:
+
 
 # Budgety
 
